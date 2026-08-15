@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+pytest
+python-dotenv
+xlrd
